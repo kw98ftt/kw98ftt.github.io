@@ -1,0 +1,34 @@
+# Power BI Doku Beispiel Datenset XY
+- [Power BI Doku Beispiel Datenset XY](#power-bi-doku-beispiel-datenset-xy)
+- [Frontend Doku](#frontend-doku)
+  - [Bericht A](#bericht-a)
+    - [Visual 1A](#visual-1a)
+    - [Visual 1B](#visual-1b)
+  - [Bericht B](#bericht-b)
+    - [Visual 2A](#visual-2a)
+  - [Bericht C](#bericht-c)
+    - [Visual C](#visual-c)
+- [Backend Doku](#backend-doku)
+  - [Table A](#table-a)
+    - [`ColumnNameOne`](#columnnameone)
+    - [`CalculatedColumnNameOne`](#calculatedcolumnnameone)
+  - [Table B](#table-b)
+  - [Table C](#table-c)
+
+# Frontend Doku
+## Bericht A
+Bericht A erstellt Grafiken zum Zweck XY, der Kunde möchte das, weil UVW. Dafür werden die Spalten [`ColumnNameOne`](#columnnameone) und [`CalculateColumnNameOne`](#calculatedcolumnnameone) benötigt, wobei sich [`CalculatedColumnOne`](#calculatedcolumnnameone) aus den und den Sachen berechnet.
+### Visual 1A
+### Visual 1B
+## Bericht B
+### Visual 2A
+## Bericht C
+### Visual C
+# Backend Doku
+## Table A
+### `ColumnNameOne`
+Hält Daten, die für dies und jenes gebraucht wird, wurde in `PrettyNameColumnOne`umbenannt
+### `CalculatedColumnNameOne` 
+Berechnet sich aus `ColumnNameOne` und `ColumnNameTwo`. Wird benötigt um Infos zu BWL Sachen darzustellen.
+## Table B
+## Table C
